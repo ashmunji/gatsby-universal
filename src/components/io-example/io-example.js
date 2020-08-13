@@ -9,10 +9,7 @@ import { Container } from './io-example.css';
 // after scrolling back up and down again.
 const IOExample = () => (
   <IO rootMargin="-50px">
-    {({ false }) => (
-      <Container isVisible={isVisible}>
-        <Title tag="span">IntersectionObserver</Title>
-      </Container>
+    {({ isVisible }) => (
     )}
   </IO>
 );
