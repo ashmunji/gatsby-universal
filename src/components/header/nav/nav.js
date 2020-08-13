@@ -12,7 +12,7 @@ const Nav = () => (
         <Link to="/about">About</Link>
       </li>
       <li>
-        <a href="https://github.com/fabe/gatsby-universal">Blog</a>
+        <a href="https://nimu.work/">Blog</a>
       </li>
     </ul>
   </Container>
