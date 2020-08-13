@@ -7,14 +7,6 @@ import { Container } from './io-example.css';
 // In this example, we only care about `isVisible` and reset the styles
 // every time we scroll back up. Use `hasBeenVisible` to keep the styles
 // after scrolling back up and down again.
-const IOExample = () => (
-  <IO rootMargin="-50px">
-    {({ isVisible }) => (
-      <Container isVisible=false>
-        <Title tag="span">IntersectionObserver</Title>
-      </Container>
-    )}
-  </IO>
-);
+const IOExample = () => ();
 
 export default IOExample;
