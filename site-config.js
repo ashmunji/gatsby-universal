@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: `Ashwini Munji`,
   siteTitleShort: `AshMunji`,
   siteDescription: `Hello World `,
-  siteUrl: `Hello World`,
+  siteUrl: `https://www.google.com`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,
