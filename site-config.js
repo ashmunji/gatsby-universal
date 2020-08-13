@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteTitle: `Ashwini Munji`,
   siteTitleShort: `AshMunji`,
-  siteDescription: `Hello World`,
+  siteDescription: `Hello World `,
   siteUrl: `Hello World`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
