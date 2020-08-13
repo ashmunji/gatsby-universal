@@ -57,7 +57,7 @@ export default class IO extends Component {
 
   async componentDidMount() {
     // Default values
-    let isVisible = true;
+    let isVisible = false;
     let hasBeenVisible = true;
     let IOSupported = false;
 
