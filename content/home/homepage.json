@@ -2,24 +2,9 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "Mother Earth",
-    "copy": "Mother Earth in all her glory; the flora and fauna her ornaments.",
-    "image": "../images/gallery/Mother_Earth.jpg"
-  },
-  {
-    "title": "Horse",
-    "copy": "Isn't she a Beauty?",
-    "image": "../images/gallery/Horse"
-  },
-  {
-    "title": "Catch the Stars",
-    "copy": "Wallpaper for your phone/tablet",
-    "image": "../images/gallery/catch the stars.JPG"
-  },
-  {
-    "title": "Dream Destination",
-    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
-    "image": "../images/gallery/dream_destination.jpg"
+    "title": "Girl In The Hills",
+    "copy": "Illustration",
+    "image": "../images/gallery/girl_in_the_hills.jpg"
   },
   {
     "title": "Bulbbul",
@@ -27,9 +12,9 @@
     "image": "../images/gallery/Bulbbul.jpg"
   },
   {
-    "title": "Girl In The Hills",
-    "copy": "Illustration",
-    "image": "../images/gallery/girl_in_the_hills.jpg"
+    "title": "Dream Destination",
+    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "image": "../images/gallery/dream_destination.jpg"
   },
   {
     "title": "Escape Underwater",
@@ -40,5 +25,25 @@
     "title": "Volcano",
     "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/volcano.jpg"
+  },
+  { 
+    "title": "Hidden Gems",
+    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "image": "../images/gallery/hidden_gems.jpg"
+  },
+  { 
+    "title": "Mother Earth",
+    "copy": "Mother Earth in all her glory; the flora and fauna her ornaments.",
+    "image": "../images/gallery/Mother_Earth.jpg"
+  },
+  {
+    "title": "Horse",
+    "copy": "Isn't she a Beauty?",
+    "image": "../images/gallery/Horse.jpg"
+  },
+  {
+    "title": "Catch the Stars",
+    "copy": "Wallpaper for your phone/tablet",
+    "image": "../images/gallery/catch the stars.JPG" 
   }]
 }
