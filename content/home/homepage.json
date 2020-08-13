@@ -7,33 +7,38 @@
     "image": "../images/gallery/Mother_Earth.jpg"
   },
   {
+    "title": "Horse",
+    "copy": "Isn't she a Beauty?",
+    "image": "../images/gallery/Horse"
+  },
+  {
+    "title": "Catch the Stars",
+    "copy": "Wallpaper for your phone/tablet",
+    "image": "../images/gallery/catch the stars.JPG"
+  },
+  {
     "title": "Dream Destination",
-    "copy": "A scene from my book- The Lands of Vichibu.",
+    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/dream_destination.jpg"
   },
   {
-    "title": "Into The Opening",
-    "copy": "A scene from my book- The Lands of Vichibu.",
-    "image": "../images/gallery/into_the_opening.jpg"
+    "title": "Bulbbul",
+    "copy": "A still from the Bollywood Movie-Bulbbul",
+    "image": "../images/gallery/Bulbbul.jpg"
   },
   {
-    "title": "Bulbbul",
-    "copy": "A still from the movie- Bulbbul",
-    "image": "../images/gallery/bulbbul_movie_poster.jpg"
+    "title": "Girl In The Hills",
+    "copy": "Illustration",
+    "image": "../images/gallery/girl_in_the_hills.jpg"
+  },
+  {
+    "title": "Escape Underwater",
+    "copy": "Illustration-Part of the Escape Series",
+    "image": "../images/gallery/Escape_Underwater.jpg"
   },
   {
     "title": "Volcano",
-    "copy": "A scene from my book- The Lands of Vichibu.",
+    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/volcano.jpg"
-  },
-  {
-    "title": "Sleeping Princess",
-    "copy": "A scene from my book- The Lands of Vichibu.",
-    "image": "../images/gallery/the_sleeping_princess.jpg"
-  },
-  {
-    "title": "Into the Wild",
-    "copy": "A scene from my book- The Lands of Vichibu.",
-    "image": "../images/gallery/into_the_wild.jpg"
   }]
 }
