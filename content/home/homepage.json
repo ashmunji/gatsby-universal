@@ -8,12 +8,12 @@
   },
   {
    "title": "Dream Destination",
-    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "copy": "Illustration - A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/dream_destination.jpg"
   },
   {
     "title": "The Opening",
-    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "copy": "Illustration - A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/into_the_opening.jpg"
   },
   {
@@ -23,32 +23,42 @@
   },
   {
     "title": "Volcano",
-    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "copy": "Illustration - A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/volcano.jpg"
   },
   { 
     "title": "Sleeping Princess",
-    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "copy": "Illustration - A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/the_sleeping_princess.jpg"
   },
   { 
     "title": "Hidden Gems",
-    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "copy": "Illustration - A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/hidden_gems.jpg"
   },
   {
     "title": "Horse",
-    "copy": "Isn't she a Beauty?",
+    "copy": "Isn't she a beauty?",
     "image": "../images/gallery/Horse.jpg"
   },
   {
     "title": "Catch the Stars",
-    "copy": "Wallpaper for your phone/tablet",
+    "copy": "Wallpaper for your smart Phone/Tablet",
     "image": "../images/gallery/catch the stars.JPG"
   },
   {
     "title": "Escape Underwater",
-    "copy": "Illustration-Part of the Escape Series",
+    "copy": "Illustration - A Part of the Escape Series",
     "image": "../images/gallery/Escape_Underwater.jpg"
+  },
+  {
+    "title": "Girl In The Hills",
+    "copy": "Illustration",
+    "image": "../images/gallery/girl_in_the_hills.jpg"
+  },
+  {
+    "title": "Girl Daydreaming",
+    "copy": "Illustration - A part of the Escape Series.",
+    "image": "../images/gallery/Girl_daydreaming.jpg"
   }]
 }
