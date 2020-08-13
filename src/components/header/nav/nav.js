@@ -5,14 +5,14 @@ import { Container } from './nav.css';
 const Nav = () => (
   <Container>
     <ul>
+    <li>
+        <a href="https://github.com/fabe/gatsby-universal">Shop</a>
+      </li>
       <li>
         <Link to="/about">About</Link>
       </li>
       <li>
         <a href="https://github.com/fabe/gatsby-universal">Blog</a>
-      </li>
-      <li>
-        <a href="https://github.com/fabe/gatsby-universal">Shop</a>
       </li>
     </ul>
   </Container>
