@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Ashwini Munji`,
+  siteTitle: `studio nimu`,
   siteTitleShort: `AshMunji`,
   siteDescription: `Hello World `,
   siteUrl: `https://www.google.com`,
