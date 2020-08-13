@@ -2,24 +2,24 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "Girl In The Hills",
-    "copy": "Illustration",
-    "image": "../images/gallery/girl_in_the_hills.jpg"
+    "title": "Mother Earth",
+    "copy": "Mother Earth in all her glory; the flora and fauna her ornaments.",
+    "image": "../images/gallery/Mother_Earth.jpg"
   },
   {
-    "title": "Bulbbul",
-    "copy": "A still from the Bollywood Movie-Bulbbul",
-    "image": "../images/gallery/Bulbbul.jpg"
-  },
-  {
-    "title": "Dream Destination",
+   "title": "Dream Destination",
     "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/dream_destination.jpg"
   },
   {
-    "title": "Escape Underwater",
-    "copy": "Illustration-Part of the Escape Series",
-    "image": "../images/gallery/Escape_Underwater.jpg"
+    "title": "The Opening",
+    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "image": "../images/gallery/into_the_opening.jpg"
+  },
+  {
+   "title": "Bulbbul",
+    "copy": "A still from the Bollywood Movie-Bulbbul",
+    "image": "../images/gallery/Bulbbul.jpg"
   },
   {
     "title": "Volcano",
@@ -27,14 +27,14 @@
     "image": "../images/gallery/volcano.jpg"
   },
   { 
+    "title": "Sleeping Princess",
+    "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
+    "image": "../images/gallery/the_sleeping_princess.jpg"
+  },
+  { 
     "title": "Hidden Gems",
     "copy": "Illustration-A scene from my book, The Lands of Vichibu.",
     "image": "../images/gallery/hidden_gems.jpg"
-  },
-  { 
-    "title": "Mother Earth",
-    "copy": "Mother Earth in all her glory; the flora and fauna her ornaments.",
-    "image": "../images/gallery/Mother_Earth.jpg"
   },
   {
     "title": "Horse",
@@ -44,6 +44,11 @@
   {
     "title": "Catch the Stars",
     "copy": "Wallpaper for your phone/tablet",
-    "image": "../images/gallery/catch the stars.JPG" 
+    "image": "../images/gallery/catch the stars.JPG"
+  },
+  {
+    "title": "Escape Underwater",
+    "copy": "Illustration-Part of the Escape Series",
+    "image": "../images/gallery/Escape_Underwater.jpg"
   }]
 }
