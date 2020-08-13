@@ -10,6 +10,9 @@ import { Container } from './io-example.css';
 const IOExample = () => (
   <IO rootMargin="-50px">
     {({ isVisible }) => (
+      <Container isVisible={isVisible}>
+        <Title tag="span">IntersectionObserver</Title>
+      </Container>
     )}
   </IO>
 );
