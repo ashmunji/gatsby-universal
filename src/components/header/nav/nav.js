@@ -6,7 +6,7 @@ const Nav = () => (
   <Container>
     <ul>
     <li>
-        <a href="https://gumroad.com/nimu">Shop</a>
+        <a href="https://gumroad.com/nimu">Download</a>
       </li>
       <li>
         <a href="https://nimu.work/">Blog</a>
