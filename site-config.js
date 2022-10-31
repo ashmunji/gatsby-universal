@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: `studio nimu`,
   siteTitleShort: `AshMunji`,
   siteDescription: `Hello World `,
-  siteUrl: `https://www.google.com`,
+  siteUrl: `www.ashwinimunji.com`,
   themeColor: `#000`,
   backgroundColor: `#fff`,
   pathPrefix: null,
